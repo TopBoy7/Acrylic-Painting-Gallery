@@ -92,5 +92,8 @@ img {
   .card {
     display: block;
   }
+.container {
+    Width: 100vw;
+}
 
 }
